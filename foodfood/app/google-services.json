@@ -1,0 +1,233 @@
+{
+  "project_info": {
+    "project_number": "780845371970",
+    "firebase_url": "https://food247-10746.firebaseio.com",
+    "project_id": "food247-10746",
+    "storage_bucket": "food247-10746.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:780845371970:android:78dae7484f368644d093db",
+        "android_client_info": {
+          "package_name": "com.example.fooddy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "780845371970-i208cp9rika6nhmk83dcgm3ehnmne1h7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.fooddy",
+            "certificate_hash": "1429c76ee94f56afc0a8cc24f514fdca92517504"
+          }
+        },
+        {
+          "client_id": "780845371970-dm6ltijpc64b5uu5liomre3mja2efhng.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhjIC2GXs94ry6YutYX4RuOcG_rUXUOMk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "780845371970-dm6ltijpc64b5uu5liomre3mja2efhng.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:780845371970:android:2b6c6398c0c2b580d093db",
+        "android_client_info": {
+          "package_name": "com.example.ppapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "780845371970-ikahuqh5ijag8e955m6pjagnvvhod1ng.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ppapplication",
+            "certificate_hash": "1429c76ee94f56afc0a8cc24f514fdca92517504"
+          }
+        },
+        {
+          "client_id": "780845371970-dm6ltijpc64b5uu5liomre3mja2efhng.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhjIC2GXs94ry6YutYX4RuOcG_rUXUOMk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "780845371970-dm6ltijpc64b5uu5liomre3mja2efhng.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:780845371970:android:d2de7d05d9717420d093db",
+        "android_client_info": {
+          "package_name": "com.prao.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "780845371970-bqn0s4c3q1jqmo8lnjnchk955l272fgg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.prao.myapplication",
+            "certificate_hash": "b533f204a60f757997c99d94539b59b9355e6030"
+          }
+        },
+        {
+          "client_id": "780845371970-76fvrhg1kpc1qntm5pl4qpt8n9ms1kee.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.prao.myapplication",
+            "certificate_hash": "1429c76ee94f56afc0a8cc24f514fdca92517504"
+          }
+        },
+        {
+          "client_id": "780845371970-dm6ltijpc64b5uu5liomre3mja2efhng.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhjIC2GXs94ry6YutYX4RuOcG_rUXUOMk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "780845371970-dm6ltijpc64b5uu5liomre3mja2efhng.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:780845371970:android:7c8d9731332c81aed093db",
+        "android_client_info": {
+          "package_name": "com.prao.nativeappproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "780845371970-dm6ltijpc64b5uu5liomre3mja2efhng.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhjIC2GXs94ry6YutYX4RuOcG_rUXUOMk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "780845371970-dm6ltijpc64b5uu5liomre3mja2efhng.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:780845371970:android:e2e147bd71154698d093db",
+        "android_client_info": {
+          "package_name": "com.praower.foodfood"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "780845371970-43fu348csfeobcomsuk2n6ckli2pnk0e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.praower.foodfood",
+            "certificate_hash": "1429c76ee94f56afc0a8cc24f514fdca92517504"
+          }
+        },
+        {
+          "client_id": "780845371970-dm6ltijpc64b5uu5liomre3mja2efhng.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhjIC2GXs94ry6YutYX4RuOcG_rUXUOMk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "780845371970-dm6ltijpc64b5uu5liomre3mja2efhng.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:780845371970:android:9abdbcda3f099db4d093db",
+        "android_client_info": {
+          "package_name": "com.praower.nativeapp3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "780845371970-o3svdaevo0r8tid0ac27nvtkqib225e5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.praower.nativeapp3",
+            "certificate_hash": "1429c76ee94f56afc0a8cc24f514fdca92517504"
+          }
+        },
+        {
+          "client_id": "780845371970-dm6ltijpc64b5uu5liomre3mja2efhng.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhjIC2GXs94ry6YutYX4RuOcG_rUXUOMk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "780845371970-dm6ltijpc64b5uu5liomre3mja2efhng.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
